@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avreet/"><img alt="Linkedin" src="https://img.shields.io/github/followers/YOUR-USERNAME?style=flat"></a>
+  <a href="https://www.linkedin.com/in/avreet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
 <!--   <a href="https://github.com/YOUR-USERNAME"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat"></a> -->
   <a href="mailto:avreet.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avreet.work@gmail.com-informational"></a>
 </p>
@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 | **Project Two** | One-liner value prop | Python, FastAPI | 🔗 https://github.com/YOUR-USERNAME/project-two |
 | **Project Three** | One-liner value prop | React, Tailwind | 🔗 https://github.com/YOUR-USERNAME/project-three |
 
----
-
+<!--
 ### 📝 Latest posts
-<!-- If you don’t blog yet, delete this section -->
+<!-- If you don’t blog yet, delete this section 
 - [Post Title 1](https://your-blog.example.com/post-1) – TL;DR 1
 - [Post Title 2](https://your-blog.example.com/post-2) – TL;DR 2
+-->
 
 ---
 
@@ -75,11 +75,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 🤝 Connect
-<a href="mailto:avreet.work@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/avreet/">LinkedIn</a> •
-<a href="https://avreet0009.github.io/portfolio/">Website</a>
-
+<h2 > 🤝Connect </h2>
+<p align="center">
+  <a align="center" href="mailto:avreet.work@gmail.com">Email</a> 📧 •
+  <a align="center" href="https://www.linkedin.com/in/avreet/">LinkedIn</a> 💼 •
+  <a align="center" href="https://avreet0009.github.io/portfolio/">Website</a> 🌐
+</p>
 <!--
 Tips:
 1) Rename this repo to EXACTLY your GitHub username (public).
