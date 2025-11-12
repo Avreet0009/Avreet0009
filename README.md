@@ -20,20 +20,19 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avreet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-<!--   <a href="https://github.com/YOUR-USERNAME"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat"></a> -->
+  <a href="https://github.com/Avreet0009"><img alt="Github" src="https://img.shields.io/badge/GitHub-View-blue?style=flat&logo=github&logoColor=white"></a>
   <a href="mailto:avreet.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avreet.work@gmail.com-informational"></a>
 </p>
 
 ---
 
 ### 🧭 About me
-- 🔭 I’m currently working on: **PROJECT / PRODUCT**
-- 🌱 I’m learning: **TECH OR TOPIC**
+- 🔭 I’m currently working on: *Google Keep Clone *
+- 🌱 I’m learning: *React *
 - 🤝 I’m open to collaborate on: **OPEN-SOURCE / STARTUPS / TOOLS**
-- 💬 Ask me about: **DOMAIN EXPERTISE**
-- 📫 How to reach me: **you@example.com** | **LinkedIn/Twitter**
-- ⚡ Fun fact: **YOUR FUN FACT**
-
+- 📫 How to reach me: avreet.work@gmail.com | **LinkedIn**
+<!--- ⚡ Fun fact: **YOUR FUN FACT**-->
+<!--###- 💬 Ask me about: **DOMAIN EXPERTISE** -->
 ---
 
 ### 🧰 Tech I use
@@ -56,7 +55,7 @@ Here are some ideas to get you started:
 |---|---|---|---|
 | **Project One** | One-liner value prop | TS, Node, Postgres | 🔗 https://github.com/YOUR-USERNAME/project-one |
 | **Project Two** | One-liner value prop | Python, FastAPI | 🔗 https://github.com/YOUR-USERNAME/project-two |
-| **Project Three** | One-liner value prop | React, Tailwind | 🔗 https://github.com/YOUR-USERNAME/project-three |
+<!-- | **Project Three** | One-liner value prop | React, Tailwind | 🔗 https://github.com/YOUR-USERNAME/project-three | -->
 
 <!--
 ### 📝 Latest posts
@@ -66,16 +65,16 @@ Here are some ideas to get you started:
 -->
 
 ---
-
+<!--
 ### 📊 By the numbers (optional)
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="Stats">
   <img height="165" src="https://streak-stats.demolab.com?user=YOUR-USERNAME" alt="Streak">
 </p>
-
+-->
 ---
 
-<h2 > 🤝Connect </h2>
+<h2  align="center"> 🤝Connect </h2>
 <p align="center">
   <a align="center" href="mailto:avreet.work@gmail.com">Email</a> 📧 •
   <a align="center" href="https://www.linkedin.com/in/avreet/">LinkedIn</a> 💼 •
